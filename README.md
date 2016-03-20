@@ -6,4 +6,4 @@ if you approach an enemy behind less than 1.5 meters, you have a chance to surre
 
 #FSM schematic
 
-# ![surrender](screens/surrender.png)
+# ![surrender](screens/surrender.jpg)
