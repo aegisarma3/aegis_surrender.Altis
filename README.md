@@ -10,6 +10,6 @@ If you distance more than 10 meters and the enemy is out of sight he will return
 # ![surrender](screens/surrender.jpg)
 
 #VIDEOS
-[![video](https://gifs.com/gif/wpZGjR)](https://www.youtube.com/watch?v=zETOkt7ED_c&feature=youtu.be)
+[![video](https://j.gifs.com/wpZGjR.gif)](https://www.youtube.com/watch?v=zETOkt7ED_c&feature=youtu.be)
 
 AEGIS Surrender v0.1
