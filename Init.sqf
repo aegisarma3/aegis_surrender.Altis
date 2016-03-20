@@ -1,5 +1,3 @@
-onMapSingleClick "player setpos _pos";
-
 while { true } do {
   _units = allUnits - ( playableUnits + switchableUnits );
   {
