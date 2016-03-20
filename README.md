@@ -8,3 +8,5 @@ If you distance more than 10 meters and the enemy is out of sight he will return
 #FSM schematic
 
 # ![surrender](screens/surrender.jpg)
+
+[![video](http://img.youtube.com/vi/zETOkt7ED_c/0.jpg)](https://www.youtube.com/watch?v=zETOkt7ED_c&feature=youtu.be)
